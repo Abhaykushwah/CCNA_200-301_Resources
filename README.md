@@ -7,7 +7,7 @@ Hello there! I'm Abhay Kushwah, a passionate Cyber Security Student with a keen 
 
 🎥 I'm actively working on a YouTube playlist covering the CISCO CCNA 200-301 practicals certification topics. This playlist is designed to provide clear explanations and practical examples to aid in understanding networking fundamentals and preparing for the CCNA exam.
 
-[Check out the playlist here!](https://www.youtube.com/playlist?list=PLmY7nCxt9pN_bAldER_90fQ3FdWAZq_ER)
+🔗 [Check out the playlist here!](https://www.youtube.com/playlist?list=PLmY7nCxt9pN_bAldER_90fQ3FdWAZq_ER)
 
 ## 📺 YouTube Channel
 
