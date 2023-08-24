@@ -19,8 +19,8 @@ If you're interested in networking, technology, and learning in general, feel fr
 
 I'm excited to connect with fellow learners, tech enthusiasts. Let's embark on this learning journey together!
 
-- 📧 Email: [your@email.com](mailto:abhaykushwah999@gmail.com)
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/AbhayKushwah/)
+- 📧 Email: [abhaykushwah999@gmail.com](mailto:abhaykushwah999@gmail.com/)
+- 💼 LinkedIn: [Abhay Kushwah](https://www.linkedin.com/in/AbhayKushwah/)
 
 Feel free to reach out if you have questions, suggestions, or just want to say hello. Happy learning!
 
