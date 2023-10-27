@@ -1,6 +1,12 @@
 # Welcome to My CCNA 200-301 Resources Repo
 .pkt files created in YouTube Vidoes
-[![Video](https://i.ytimg.com/vi/zApKX4v7s6w/maxresdefault.jpg?)](https://youtu.be/zApKX4v7s6w?si=50WPSPQjIadg_hTG)
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/zApKX4v7s6w?si=d4xf8JdYK6bIvTrk" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/@abhaykushwah"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 ## About Me
 Hello there! I'm Abhay Kushwah, a passionate Cyber Security Student with a keen interest in Network Technology. Currently, I'm working on creating a comprehensive **CISCO CCNA 200-301 Playlist** on YouTube to help fellow learners master networking concepts.
